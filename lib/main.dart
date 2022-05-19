@@ -38,7 +38,7 @@ class _HelloFlutterAppState extends State<HelloFlutterApp> {
         body: Center(
           child: Text(
             displayText,
-            style: TextStyle(fontSize: 25),
+            style: TextStyle(fontSize: 48, fontWeight: FontWeight.bold),
           ),
         ),
       ),
